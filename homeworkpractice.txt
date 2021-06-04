@@ -1,0 +1,4 @@
+1.Use command git log --stat.
+2.Use command git log --patch.
+3.The HEAD in Git is the pointer to the current branch reference, 
+   which also turn a pointer to the last commit you made or the last commit that was checked in a working directory.
